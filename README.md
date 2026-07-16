@@ -1,4 +1,4 @@
-# Universal Legal Skills
+# Universal Contract Skills
 
 Three portable, self-contained contract-review skills for AI coding agents. They work unchanged in **Claude Code**, **OpenAI Codex**, and **OpenCode** — plain markdown instructions plus one stdlib-only Python helper, no platform-specific tools, paths, or pip installs.
 
